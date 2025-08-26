@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+*.pyc
+__pycache__/
+.env
+.DS_Store
+*.log
+*.sqlite3
+selenium_project/venv/
+>>>>>>> 803a70b (primeiro commit)
