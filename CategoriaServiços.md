@@ -1,0 +1,332 @@
+
+-- Categorias de Servicos 
+    --> Educação - https://pref.rio/servicos/categoria/educacao
+        --> Consultar Declaração de Escolaridade  - https://pref.rio/servicos/categoria/educacao/68687/carioca-digital
+        --> Informações sobre avaliação de aluno incluído - https://pref.rio/servicos/categoria/educacao/10603372091675/1746
+        --> Material Rioeduca - https://pref.rio/servicos/categoria/educacao/90643/carioca-digital
+        --> Incluir Aluno para acompanhamento escolar - https://pref.rio/servicos/categoria/educacao/68617/carioca-digital
+        --> Consultar Calendário Escolar - https://pref.rio/servicos/categoria/educacao/68683/carioca-digital
+        --> Matrícula em Creche Municipal - https://pref.rio/servicos/categoria/educacao/70742/carioca-digital
+        --> Informações sobre o auxílio educação - https://pref.rio/servicos/categoria/educacao/10822819825691/1746
+        --> Matrícula na Pré-Escola, Ensino Fundamental e Educação de Jovens e Adultos - https://pref.rio/servicos/categoria/educacao/70758/carioca-digital
+        --> Atendimento em Ouvidoria - SME - https://pref.rio/servicos/categoria/educacao/10618383693979/1746
+        --> Informações sobre matrícula na rede municipal - 2025 - https://pref.rio/servicos/categoria/educacao/31273172690203/1746
+        --> Consulta à Merenda Escolar - https://pref.rio/servicos/categoria/educacao/69334/carioca-digital
+        --> consulta de Endereço das Escolas Públicas Municipais - https://pref.rio/servicos/categoria/educacao/92245/carioca-digital
+        --> Suporte Técnico às Plataformas MultiRio - https://pref.rio/servicos/categoria/educacao/10605210315163/1746
+        --> O que é Nave do Conhecimento? https://pref.rio/servicos/categoria/educacao/88208/carioca-digital
+        --> Matrícula na Educação Especial https://pref.rio/servicos/categoria/educacao/70721/carioca-digital
+        --> Verificação de legalização/licenciamento de estabelecimento de educação infantil https://pref.rio/servicos/categoria/educacao/10603589891995/1746
+        --> Informação sobre os produtos e projetos da MultiRio  https://pref.rio/servicos/categoria/educacao/106245/carioca-digital
+        --> Informações sobre a inclusão de alunos da Educação Especial https://pref.rio/servicos/categoria/educacao/10603313155483/1746
+        --> Informações sobre envio de material educativo para a MultiRio https://pref.rio/servicos/categoria/educacao/10605164173211/1746
+        --> Informações sobre doação de livros https://pref.rio/servicos/categoria/educacao/10602999705115/1746
+
+    --> Cidade https://pref.rio/servicos/categoria/cidade
+        --> Reparo de buraco, deformação ou afundamento na pista  https://pref.rio/servicos/categoria/cidade/10221381930523/1746
+        --> Reparo de Luminária https://pref.rio/servicos/categoria/cidade/14187518715931/1746
+        --> Remoção de entulho e bens inservíveis https://pref.rio/servicos/categoria/cidade/10219766128667/1746
+        --> Manutenção/Desobstrução de ramais de águas pluviais e ralos https://pref.rio/servicos/categoria/cidade/10221176323867/1746
+        --> Remoção de resíduos no logradouro  https://pref.rio/servicos/categoria/cidade/10735195018011/1746
+        --> Varrição de logradouro https://pref.rio/servicos/categoria/cidade/10735195018011/1746
+        --> Reposição de tampão ou grelha https://pref.rio/servicos/categoria/cidade/10272405094043/1746
+        --> Verificação de frequência irregular da coleta domiciliar com retirada do resíduo https://pref.rio/servicos/categoria/cidade/10734140106779/1746
+        --> Capina em logradouro https://pref.rio/servicos/categoria/cidade/10221022905115/1746
+        --> Fiscalização de obras em imóvel privado https://pref.rio/servicos/categoria/cidade/10822996862875/1746
+        --> Remoção de veículo abandonado em via pública https://pref.rio/servicos/categoria/cidade/10221186863003/1746
+        --> Remoção de resíduos de poda https://pref.rio/servicos/categoria/cidade/10735131383451/1746
+        --> Fiscalização da ocupação de área pública https://pref.rio/servicos/categoria/cidade/14208565911963/1746
+        --> Fiscalização de obstáculo fixo na calçada https://pref.rio/servicos/categoria/cidade/10275708915099/1746
+        --> Fiscalização de buraco na calçada https://pref.rio/servicos/categoria/cidade/10275708915099/1746
+        --> Consultar Certidão de Habite-se/Aceitação https://pref.rio/servicos/categoria/cidade/82661/carioca-digital
+        --> Informações sobre processos da Rio-Águas https://pref.rio/servicos/categoria/cidade/77868/carioca-digital
+        --> Reparo de cabo de iluminação pública https://pref.rio/servicos/categoria/cidade/14191400984987/1746
+        --> Limpeza de papeleira, contêiner e caçamba da COMLURB  https://pref.rio/servicos/categoria/cidade/10734897643291/1746
+        --> Limpeza de praças e parques https://pref.rio/servicos/categoria/cidade/10734900601371/1746
+
+    --> Transporte https://pref.rio/servicos/categoria/transporte
+        --> Fiscalização de estacionamento irregular de veículo https://pref.rio/servicos/categoria/transporte/10872633493659/1746
+        --> Cartão de Estacionamento para Idoso https://pref.rio/servicos/categoria/transporte/69155/carioca-digital
+        --> Fiscalização de má conduta do motorista/despachante https://pref.rio/servicos/categoria/transporte/14207792262299/1746
+        --> Reparo de sinal de trânsito apagado https://pref.rio/servicos/categoria/transporte/10220783937691/1746
+        --> Informações sobre gratuidade em ônibus https://pref.rio/servicos/categoria/transporte/10246609668891/1746
+        --> Verificação de ar condicionado inoperante no ônibus  https://pref.rio/servicos/categoria/transporte/10870066623003/1746
+        --> Cartão de estacionamento para pessoas com deficiência – PCD https://pref.rio/servicos/categoria/transporte/10872531918363/1746
+        --> Fiscalização de má condição do ônibus https://pref.rio/servicos/categoria/transporte/14207681718299/1746
+        --> Informações sobre a Jaé https://pref.rio/servicos/categoria/transporte/91583/carioca-digital
+        --> Consulta de Multas por Permissão em Taxi https://pref.rio/servicos/categoria/transporte/91841/carioca-digital
+        --> Cadastramento para obtenção de Riocard Especial https://pref.rio/servicos/categoria/transporte/10869907577755/1746
+        --> Multa de Trânsito – 2ª Instância https://pref.rio/servicos/categoria/transporte/89838/carioca-digital
+        --> Emissão de boleto para pagamento de multa (DARM) no VLT - https://pref.rio/servicos/categoria/transporte/99086/carioca-digital
+        --> Solicitação de manutenção de sinalização gráfica vertical viária https://pref.rio/servicos/categoria/transporte/10873508661659/1746
+        --> Passe Livre - https://pref.rio/servicos/categoria/transporte/72584/carioca-digital
+        --> Solicitação de balizamento de trânsito https://pref.rio/servicos/categoria/transporte/10873513958555/1746
+        --> Reparo de sinal de trânsito em amarelo piscante https://pref.rio/servicos/categoria/transporte/10873296416411/1746
+        --> Reparo de sinal de trânsito abalroado ou ausente ou virado https://pref.rio/servicos/categoria/transporte/10873296416411/1746
+        --> Fiscalização da atuação do guardador de estacionamento Rio Rotativo https://pref.rio/servicos/categoria/transporte/10872589397531/1746
+        --> Emissão de Taxas por Permissão em Taxi https://pref.rio/servicos/categoria/transporte/91836/carioca-digital
+
+    --> Licenças  
+        --> Licença Sanitária de Funcionamento https://pref.rio/servicos/categoria/licencas/69823/carioca-digital
+        --> Autorização para exibição de publicidade https://pref.rio/servicos/categoria/licencas/105555/carioca-digital
+        --> Concessão de alvará de licença de estabelecimento pela internet https://pref.rio/servicos/categoria/licencas/69572/carioca-digital
+        --> Solicitação de orientações sobre o alvará pela internet https://pref.rio/servicos/categoria/licencas/10619035948443/1746
+        --> Autorização / legalização de comércio ambulante https://pref.rio/servicos/categoria/licencas/68976/carioca-digital
+        --> Segunda via de alvará https://pref.rio/servicos/categoria/licencas/68976/carioca-digital
+        --> Alvará a Jato https://pref.rio/servicos/categoria/licencas/91037/carioca-digital
+        --> Pesquisa de existência de alvará https://pref.rio/servicos/categoria/licencas/78566/carioca-digital
+        --> Fiscalização de alimentos, indústria de alimentos e estabelecimentos de ensino https://pref.rio/servicos/categoria/licencas/15042296187547/1746
+        --> Minhas Empresas/Cadastrar Procurador de Empresa https://pref.rio/servicos/categoria/licencas/68859/carioca-digital
+        --> Consulta de Situação Cadastral por Permissão https://pref.rio/servicos/categoria/licencas/69771/carioca-digital
+        --> Autorização de funcionamento para banca de jornal e revistas https://pref.rio/servicos/categoria/licencas/69582/carioca-digital
+        --> Fiscalização de atividades econômicas sem alvará https://pref.rio/servicos/categoria/licencas/10221222516123/1746
+        --> Informação sobre Fiscalização de comércio ambulante https://pref.rio/servicos/categoria/licencas/10764598956187/1746
+        --> Baixa de alvará de licença de estabelecimento https://pref.rio/servicos/categoria/licencas/68981/carioca-digital
+        --> Agendamento de atendimento presencial https://pref.rio/servicos/categoria/licencas/82682/carioca-digital
+        --> Minhas Bancas de jornais e revistas https://pref.rio/servicos/categoria/licencas/69067/carioca-digital
+        --> Autorização para Publicidade Vinculada a Eventos https://pref.rio/servicos/categoria/licencas/89312/carioca-digital
+        --> Fiscalização de serviços de embelezamento e atividades físicas https://pref.rio/servicos/categoria/licencas/14206697563291/1746
+        --> Licença para construção ou modificação de edificação/ LICIN, prorrogação de licença.  https://pref.rio/servicos/categoria/licencas/82573/carioca-digital
+
+    --> Animais https://pref.rio/servicos/categoria/animais
+        --> Vistoria técnica em situações de maus tratos de animais domésticos https://pref.rio/servicos/categoria/animais/10242348321307/1746
+        --> Atendimento clínico consultas e exames em animais https://pref.rio/servicos/categoria/animais/72777/carioca-digital
+        --> Remoção de cavalos, bois, porcos e cabras soltos ou gravemente feridos em via pública https://pref.rio/servicos/categoria/animais/14206085972635/1746
+        --> Remoção de animais mortos no logradouro https://pref.rio/servicos/categoria/animais/10735113229467/1746
+        --> Avaliação de cães e gatos suspeitos de raiva animal https://pref.rio/servicos/categoria/animais/10769417877531/1746
+        --> Vistoria em logradouros públicos ou privados para avaliação de gatos errantes com suspeita de Esporotricose https://pref.rio/servicos/categoria/animais/10769448781851/1746
+        --> Captura para análise de morcegos caídos ou que atacaram pessoas e/ou animais  https://pref.rio/servicos/categoria/animais/10244670472731/1746
+        --> Atendimento domiciliar para vacinação antirrábica animal https://pref.rio/servicos/categoria/animais/10769393994267/1746
+        --> Selo “Amigo dos Animais” https://pref.rio/servicos/categoria/animais/90609/carioca-digital
+        --> Realização de exames laboratoriais em animais  https://pref.rio/servicos/categoria/animais/10735588434715/1746
+        --> Sepultamento no cemitério de pequenos animais https://pref.rio/servicos/categoria/animais/9894548857243/1746
+        --> Cemitérios e Crematórios Particulares Para Animais https://pref.rio/servicos/categoria/animais/103663/carioca-digital
+        --> Fiscalização de eventos com exposição de animais https://pref.rio/servicos/categoria/animais/10769796985243/1746
+        --> Atendimento a reações adversas à vacinação antirrábica animal https://pref.rio/servicos/categoria/animais/10769413378715/1746
+        --> Fiscalização de criações de cães, gatos, cavalos, bois, porcos, cabras e aves para fins comerciais https://pref.rio/servicos/categoria/animais/10769791026843/1746
+        --> Fiscalização de estabelecimentos veterinários e de interesse à saúde do animal
+        --> Análise de cães com suspeita de Leishmaniose https://pref.rio/servicos/categoria/animais/10769815640475/1746
+        --> Treinamento e noções básicas de normas sanitárias e boas práticas para petshops, estabelecimentos de banho e tosa, consultórios e clínicas veterinárias  https://pref.rio/servicos/categoria/animais/72501/carioca-digital
+        --> Realização de exames laboratoriais para diagnóstico de raiva animal https://pref.rio/servicos/categoria/animais/10735594729755/1746
+        --> Análise, orientação ou fiscalização de casos de animais peçonhentos ou venenosos https://pref.rio/servicos/categoria/animais/10769350508187/1746
+
+    --> Ambiente https://pref.rio/servicos/categoria/ambiente
+        --> Controle de roedores e caramujos africanos https://pref.rio/servicos/categoria/ambiente/10734204259739/1746
+        --> Poda de árvore em logradouro  https://pref.rio/servicos/categoria/ambiente/10220671680795/1746
+        --> Resgate de animais silvestres https://pref.rio/servicos/categoria/ambiente/9893467480603/1746
+        --> Remoção de árvore em logradouro https://pref.rio/servicos/categoria/ambiente/10735595148315/1746
+        --> Avaliação de risco de queda da árvore https://pref.rio/servicos/categoria/ambiente/10821516479131/1746
+        --> Fiscalização de carros de som https://pref.rio/servicos/categoria/ambiente/10858511419163/1746
+        --> Fiscalização de corte, sacrifício de árvore ou remoção de vegetação https://pref.rio/servicos/categoria/ambiente/10821210051099/1746
+        --> Fiscalização de poluição sonora - Medição de ruído em empreendimento ambientalmente licenciável e pela GEM Rio Luz https://pref.rio/servicos/categoria/ambiente/10822326091803/1746
+        --> Solicitação de plantio de árvore em área pública  https://pref.rio/servicos/categoria/ambiente/10801075133723/1746
+        --> Certidão Municipal de Inexigibilidade de Licenciamento Ambiental para atividades industriais, de comércio e serviços (CMI) https://pref.rio/servicos/categoria/ambiente/82560/carioca-digital
+        --> Autorização de poda ou remoção de árvore em área particular https://pref.rio/servicos/categoria/ambiente/76072/carioca-digital
+        --> Fiscalização de Poluição do ar https://pref.rio/servicos/categoria/ambiente/10822321713691/1746
+        --> Relação de licenças ambientais emitidas https://pref.rio/servicos/categoria/ambiente/82675/carioca-digital
+        --> Poda de árvores em áreas privadas https://pref.rio/servicos/categoria/ambiente/76126/carioca-digital
+        --> Autorização de poda ou remoção de árvore em área pública https://pref.rio/servicos/categoria/ambiente/76072/carioca-digital
+        --> Poluição hídrica ou da água https://pref.rio/servicos/categoria/ambiente/10822324804891/1746
+        --> Verificação de frequência irregular de coleta seletiva https://pref.rio/servicos/categoria/ambiente/10734082516251/1746
+        --> Arborização para HABITE-SE https://pref.rio/servicos/categoria/ambiente/76130/carioca-digital
+        --> Fiscalização de desmatamento https://pref.rio/servicos/categoria/ambiente/10821275797275/1746
+        --> Análise, orientação ou fiscalização de pombos em instituições públicas ou privadas https://pref.rio/servicos/categoria/ambiente/10769377431067/1746
+
+    --> Saúde https://pref.rio/servicos/categoria/saude
+        --> Solicitação de transporte da gestante para a maternidade https://pref.rio/servicos/categoria/saude/10735826487067/1746
+        --> Vistoria em foco de Aedes Aegypti (Dengue, Chikungunya e Zika) https://pref.rio/servicos/categoria/saude/10221081525787/1746
+        --> Solicitação de vacinação em domicílio https://pref.rio/servicos/categoria/saude/33440989114651/1746
+        --> Atendimento em Unidades de Atenção Primária em Saúde https://pref.rio/servicos/categoria/saude/10730171791131/1746
+        --> Acesso a outros Requerimentos da Vigilância Sanitária https://pref.rio/servicos/categoria/saude/69845/carioca-digital
+        --> Vistoria em local com presença de insetos (mosquito, aranha ou lacraia) https://pref.rio/servicos/categoria/saude/10244568071067/1746
+        --> Atendimento em Policlínicas https://pref.rio/servicos/categoria/saude/10729690213787/1746
+        --> Fiscalização de estabelecimentos de serviços de saúde https://pref.rio/servicos/categoria/saude/15311237178267/1746
+        --> Inscrição em programa de antitabagismo https://pref.rio/servicos/categoria/saude/71235/carioca-digital
+        --> Análise, orientação ou fiscalização de morcegos em instituições públicas ou privadas https://pref.rio/servicos/categoria/saude/10769352760347/1746
+        --> Treinamento Noções básicas de higiene na manipulação de alimentos https://pref.rio/servicos/categoria/saude/72478/carioca-digital
+        --> Atendimento à Saúde do Adulto (Homem, Mulher e Idoso) https://pref.rio/servicos/categoria/saude/10730118160411/1746
+        --> Cadastramento para obtenção de Cartão Nacional SUS https://pref.rio/servicos/categoria/saude/10730622523675/1746
+        --> Disponibilização de cursos, palestras e treinamentos na área da Vigilância Sanitária https://pref.rio/servicos/categoria/saude/72459/carioca-digital
+        --> Atendimento à Saúde da Criança e do Adolescente https://pref.rio/servicos/categoria/saude/10730049310107/1746
+        --> Atendimento em Centros de Reabilitação https://pref.rio/servicos/categoria/saude/10729631964187/1746
+        --> Captura para análise de macacos ou micos achados mortos https://pref.rio/servicos/categoria/saude/10769330142491/1746
+        --> Verificação de descumprimento dos prazos para atendimento ou agendamento – planos de saúde  https://pref.rio/servicos/categoria/saude/78297/carioca-digital
+        --> Avaliação de surto por doença transmitida por alimentos e água https://pref.rio/servicos/categoria/saude/10763993854107/1746
+        --> Atendimento em Hospitais Especializados https://pref.rio/servicos/categoria/saude/10729869001755/1746
+
+    --> Cidadania https://pref.rio/servicos/categoria/cidadania
+        --> Cadastro e acesso ao Portal Carioca Digital https://pref.rio/servicos/categoria/cidadania/77560/carioca-digital
+        --> Consultar Minhas Solicitações https://pref.rio/servicos/categoria/cidadania/89017/carioca-digital
+        --> Certidão Negativa de Débito (nada consta) https://pref.rio/servicos/categoria/cidadania/10858939404955/1746
+        --> Solicitação de correção de falhas e de cadastro no portal e app 1746 https://pref.rio/servicos/categoria/cidadania/10835703629595/1746
+        --> Solicitação de serviços para os povos e comunidades tradicionais https://pref.rio/servicos/categoria/cidadania/19495199226139/1746
+        --> Pedido de Acesso à Informação https://pref.rio/servicos/categoria/cidadania/9567624997403/1746
+        --> Cópia ou Certidão de inteiro teor de documento ou processo https://pref.rio/servicos/categoria/cidadania/103709/carioca-digital
+        --> Consulta de Processos Administrativos Eletrônicos https://pref.rio/servicos/categoria/cidadania/88424/carioca-digital
+        --> Consulta de dados no Portal da Transparência Rio https://pref.rio/servicos/categoria/cidadania/81712/carioca-digital
+        --> Certidão de histórico de reconhecimento de logradouro https://pref.rio/servicos/categoria/cidadania/10858885321755/1746
+        --> Certidão de Histórico de Revisão de Numeração https://pref.rio/servicos/categoria/cidadania/83861/carioca-digital
+        --> Insatisfação com o atendimento da Central 1746 https://pref.rio/servicos/categoria/cidadania/10835733794715/1746
+        --> Consulta ao Acervo do Arquivo Geral da Cidade do Rio de Janeiro https://pref.rio/servicos/categoria/cidadania/81556/carioca-digital
+        --> Solicitação da gravação do atendimento 1746 https://pref.rio/servicos/categoria/cidadania/10835710164123/1746
+        --> Notificação de Casos de Intolerância Étnico-Racial https://pref.rio/servicos/categoria/cidadania/17789434460187/1746
+        --> Consulta à Legislação https://pref.rio/servicos/categoria/cidadania/78775/carioca-digital
+        --> Eventos de conciliação do Procon Carioca - verificação de descumprimento de acordo https://pref.rio/servicos/categoria/cidadania/10619440114331/1746
+        --> Certificado de Aceitação das Condições de Acessibilidade https://pref.rio/servicos/categoria/cidadania/70850/carioca-digital
+        --> Consulta de Processos Administrativos Físicos https://pref.rio/servicos/categoria/cidadania/93077/carioca-digital
+        --> Verificação de Autenticidade de Documentos de Processos Administrativos https://pref.rio/servicos/categoria/cidadania/88180/carioca-digital
+
+    --> Família https://pref.rio/servicos/categoria/familia
+        --> Informações sobre o Cadastro Único  https://pref.rio/servicos/categoria/familia/72307/carioca-digital
+        --> CADRio Agendamento https://pref.rio/servicos/categoria/familia/92294/carioca-digital
+        --> Informações sobre o Programa Bolsa Família https://pref.rio/servicos/categoria/familia/10245041321371/1746
+        --> Pessoas em situação de rua https://pref.rio/servicos/categoria/familia/10221121590427/1746
+        --> Verificação de negligência com idoso, abandono ou autonegligência https://pref.rio/servicos/categoria/familia/16520177628187/1746
+        --> Solicitação de atendimento do Conselho Tutelar https://pref.rio/servicos/categoria/familia/16931805418011/1746
+        --> Informações sobre a Carteira da Pessoa Idosa https://pref.rio/servicos/categoria/familia/10246636010395/1746
+        --> Informações sobre o Programa Cartão Família Carioca https://pref.rio/servicos/categoria/familia/72410/carioca-digital
+        --> Solicitação de atendimento social https://pref.rio/servicos/categoria/familia/14208514847515/1746
+        --> Informações sobre o auxílio funeral https://pref.rio/servicos/categoria/familia/10822836882587/1746
+        --> Solicitação de Assistência Domiciliar ao Idoso (PADI)  https://pref.rio/servicos/categoria/familia/71176/carioca-digital
+        --> Territórios Sociais https://pref.rio/servicos/categoria/familia/84085/carioca-digital
+        --> Informações sobre inscrição e atualização do Cadastro Único https://pref.rio/servicos/categoria/familia/10244935327515/1746
+        --> Informações sobre consulta e estorno de pagamento de benefícios / auxílios https://pref.rio/servicos/categoria/familia/10822810014491/1746
+        --> Fiscalização de abrigos para idosos (casas de repouso) por relatos de maus tratos  https://pref.rio/servicos/categoria/familia/10244826205339/1746
+        --> Informações sobre Assistência Financeira para funeral de dependentes https://pref.rio/servicos/categoria/familia/10733248673051/1746
+        --> Informações sobre a rede de enfrentamento às violências contra a mulher https://pref.rio/servicos/categoria/familia/10822486200091/1746
+        --> Informações sobre o Programa Auxílio Gás dos Brasileiros https://pref.rio/servicos/categoria/familia/10245015233819/1746
+        --> Informações sobre o Benefício de Prestação Continuada https://pref.rio/servicos/categoria/familia/10244939553179/1746
+        --> Informações sobre acolhimento institucional de adultos idosos e famílias em vulnerabilidade https://pref.rio/servicos/categoria/familia/10244866638875/1746
+    --> Taxas https://pref.rio/servicos/categoria/taxas
+        --> ITBI – Simulação de Valor e Pedido de Guia https://pref.rio/servicos/categoria/taxas/83019/carioca-digital
+        --> IPTU 2025 https://pref.rio/servicos/categoria/taxas/84670/carioca-digital
+        --> Parcelamento em dívida ativa https://pref.rio/servicos/categoria/taxas/82000/carioca-digital
+        --> ISS – Comprovante de Inscrição e de Situação Cadastral https://pref.rio/servicos/categoria/taxas/82000/carioca-digital
+        --> Emissão de certidão de dívida ativa https://pref.rio/servicos/categoria/taxas/81974/carioca-digital
+        --> Pagamento à vista em dívida ativa https://pref.rio/servicos/categoria/taxas/82010/carioca-digital
+        --> IPTU – Formulário de Alteração de Titularidade para Entrega ao Registro de Imóveis https://pref.rio/servicos/categoria/taxas/84746/carioca-digital
+        --> IPTU – Certidão de Valor Venal https://pref.rio/servicos/categoria/taxas/84365/carioca-digital
+        --> IPTU – Notificação de Lançamento (inclusive guias extraordinárias) https://pref.rio/servicos/categoria/taxas/84393/carioca-digital
+        --> ISS – Confissão de dívida ou Parcelamento / Reparcelamento de débito não inscrito em dívida ativa https://pref.rio/servicos/categoria/taxas/85315/carioca-digital
+        --> IPTU – Consulta a logradouros do Município do Rio de Janeiro https://pref.rio/servicos/categoria/taxas/84727/carioca-digital
+        --> IPTU – Atualização de CPF/CNPJ https://pref.rio/servicos/categoria/taxas/86251/carioca-digital
+        --> IPTU – Alteração de nome do proprietário https://pref.rio/servicos/categoria/taxas/84708/carioca-digital
+        --> Emissão de Guia de Pagamento de Dívida Ativa em Atraso https://pref.rio/servicos/categoria/taxas/82013/carioca-digital
+        --> Emissão Guia de Liquidação de Parcelamento https://pref.rio/servicos/categoria/taxas/74652/carioca-digital
+        --> ISS – Pedido para emissão de certidão de Visto Fiscal para Habite-se/ Inclusão no cadastro exclusivo do IPTU (sem Movimento Econômico) https://pref.rio/servicos/categoria/taxas/83239/carioca-digital
+        --> Dívida Ativa – Segunda Via de Cotas de Pagamento https://pref.rio/servicos/categoria/taxas/68789/carioca-digital
+        --> Impressão de Taxa de Uso de Área Pública (TUAP) para mesas e cadeiras https://pref.rio/servicos/categoria/taxas/102070/carioca-digital
+        --> IPTU – Autenticidade da Certidão de Situação Fiscal e Enfitêutica do Imóvel https://pref.rio/servicos/categoria/taxas/84388/carioca-digital
+        --> Ressarcimento de Taxas de Diárias e Remoção ou de Saldo Remanescente de Arrematação de Veículo https://pref.rio/servicos/categoria/taxas/100881/carioca-digital
+
+    --> Servidor https://pref.rio/servicos/categoria/servidor
+        --> Contracheque de servidor inativo e pensionista https://pref.rio/servicos/categoria/servidor/10824283848603/1746
+        --> Consultar Validade de Contracheque https://pref.rio/servicos/categoria/servidor/68596/carioca-digital
+        --> Benefícios relacionados ao falecimento do servidor https://pref.rio/servicos/categoria/servidor/10822734879771/1746
+        --> Informações sobre o auxílio moradia https://pref.rio/servicos/categoria/servidor/10822897174683/1746
+        --> Isenção de Imposto de Renda https://pref.rio/servicos/categoria/servidor/10823808737179/1746
+        --> Informações sobre saldo devedor e quitação do financiamento imobiliário no Previ-Rio https://pref.rio/servicos/categoria/servidor/10823657080859/1746
+        --> Informações sobre empresas conveniadas com a Prefeitura https://pref.rio/servicos/categoria/servidor/10823964025499/1746
+        --> Requerimento de Adiantamento de décimo terceiro salário para Servidor Ativo https://pref.rio/servicos/categoria/servidor/78796/carioca-digital
+        --> Informações sobre financiamento imobiliário (carta de crédito)-Previ-Rio https://pref.rio/servicos/categoria/servidor/10823657080859/1746
+        --> Informações sobre concursos públicos  https://pref.rio/servicos/categoria/servidor/10859594080283/1746
+        --> Informações sobre o auxílio natalidade https://www.1746.rio/hc/pt-br/articles/10733298246939-Informa%C3%A7%C3%B5es-sobre-o-aux%C3%ADlio-natalidade
+        --> Informações sobre o auxílio medicamento https://pref.rio/servicos/categoria/servidor/10822895234331/1746
+        --> Averbação de tempo de contribuição / serviço https://pref.rio/servicos/categoria/servidor/79025/carioca-digital
+        --> Redução de Carga Horária https://pref.rio/servicos/categoria/servidor/92881/carioca-digital
+        --> Informações sobre senha para os benefícios https://pref.rio/servicos/categoria/servidor/10822922792731/1746
+        --> Informações sobre Pecúlio  https://pref.rio/servicos/categoria/servidor/10822916498331/1746
+        --> Declaração do Imposto de Renda na Fonte para aposentados e pensionistas https://pref.rio/servicos/categoria/servidor/76421/carioca-digital
+        --> Informações sobre isenção de taxa de inscrição em concurso https://pref.rio/servicos/categoria/servidor/72331/carioca-digital
+        --> Solicitação de Boletim de Inspeção Médica (BIM) Eletrônico https://pref.rio/servicos/categoria/servidor/104199/carioca-digital
+        --> Consulta à Comissão de Integridade Pública (CIP) https://pref.rio/servicos/categoria/servidor/105499/carioca-digital
+
+    --> Cultura https://pref.rio/servicos/categoria/cultura
+        --> Visitação ao Museu do Universo no Planetário do Rio https://pref.rio/servicos/categoria/cultura/88400/carioca-digital
+        --> Observação do Céu no Planetário do Rio https://pref.rio/servicos/categoria/cultura/88497/carioca-digital
+        --> Sessões de cúpula no Planetário do Rio https://pref.rio/servicos/categoria/cultura/88500/carioca-digital
+        --> Cursos de Astronomia no Planetário do Rio https://pref.rio/servicos/categoria/cultura/88190/carioca-digital
+        --> Bibliotecas da Cultura https://pref.rio/servicos/categoria/cultura/75726/carioca-digital
+        --> Requerimento de Inclusão e Exclusão de Técnica Artística ou Produto em Feirartes https://pref.rio/servicos/categoria/cultura/19010400548123/1746
+        --> Apoio à produções audiovisuais – Rio Film Commission https://pref.rio/servicos/categoria/cultura/87459/carioca-digital
+        --> Informações sobre o Programa Zonas de Cultura https://pref.rio/servicos/categoria/cultura/10419922514075/1746
+        --> CONSELHO MUNICIPAL DE POLÍTICA CULTURAL https://pref.rio/servicos/categoria/cultura/75595/carioca-digital
+        --> CALENDÁRIO DA REDE DE RODAS DE SAMBA https://pref.rio/servicos/categoria/cultura/76510/carioca-digital
+        --> Cultura e arte https://pref.rio/servicos/categoria/cultura/77809/carioca-digital
+        --> Venda de ingressos para os desfiles no Sambódromo https://pref.rio/servicos/categoria/cultura/78377/carioca-digital
+        --> Concurso para Eleição da Rainha e Princesas do Carnaval do Rio. https://pref.rio/servicos/categoria/cultura/78442/carioca-digital
+        --> Informações sobre o turismo em comunidade https://pref.rio/servicos/categoria/cultura/10420763037723/1746
+        --> Informações sobre entretenimento noturno https://pref.rio/servicos/categoria/cultura/10420322968091/1746
+        --> Informações sobre dados estatísticos de turismo https://pref.rio/servicos/categoria/cultura/10419727212571/1746
+        --> Informações sobre gastronomia https://pref.rio/servicos/categoria/cultura/10419727212571/1746
+        --> Informações sobre bailes de carnaval https://pref.rio/servicos/categoria/cultura/10412065825947/1746
+        --> Disponibilização do acervo da Biblioteca da PGM https://pref.rio/servicos/categoria/cultura/10602830449563/1746
+        --> Bibliotecas públicas municipais https://pref.rio/servicos/categoria/cultura/10602786909595/1746
+
+    --> Emergência https://pref.rio/servicos/categoria/emergencia
+        --> Vistoria em imóvel com rachadura e infiltração https://pref.rio/servicos/categoria/emergencia/10421754087707/1746
+        --> Vistoria em ameaça de desabamento de estrutura https://pref.rio/servicos/categoria/emergencia/10421554350619/1746
+        --> Emissão de Cópia Autêntica (Vistoria da Defesa Civil) https://pref.rio/servicos/categoria/emergencia/78769/carioca-digital
+        --> Vistoria em desabamento de estrutura https://pref.rio/servicos/categoria/emergencia/10421712339867/1746
+        --> Vistoria em ameaça de deslizamento de barreira, encosta, talude https://pref.rio/servicos/categoria/emergencia/10422149135003/1746
+        --> Vistoria pós-incêndio https://pref.rio/servicos/categoria/emergencia/10421971980571/1746
+        --> Vistoria em queda de muro de arrimo/contenção https://pref.rio/servicos/categoria/emergencia/10421807662107/1746
+        --> Vistoria em deslizamento de barreira, encosta, talude  https://pref.rio/servicos/categoria/emergencia/10422188885019/1746
+        --> Vistoria em queda de revestimento interno  https://pref.rio/servicos/categoria/emergencia/10421965289499/1746
+        --> Vistoria em ameaça ou rolamento de pedra https://pref.rio/servicos/categoria/emergencia/80803/carioca-digital
+        --> Vistoria em estrutura sinistrada por incêndio https://pref.rio/servicos/categoria/emergencia/80900/carioca-digital
+        --> Vistoria em ameaça de rolamento de pedra https://pref.rio/servicos/categoria/emergencia/10422185589915/1746
+        --> Vistoria em rolamento de pedra https://pref.rio/servicos/categoria/emergencia/10422242181531/1746
+        --> Informações sobre auto de interdição da Defesa Civil  https://pref.rio/servicos/categoria/emergencia/10422311262491/1746
+        --> Informações sobre imóvel interditado pela Defesa Civil em comunidade https://pref.rio/servicos/categoria/emergencia/10834639942555/1746
+        --> Informações sobre a participação da Defesa Civil em eventos https://pref.rio/servicos/categoria/emergencia/10421035612315/1746
+        --> Informações sobre Núcleos de Proteção e Defesa Civil – NUPDEC https://pref.rio/servicos/categoria/emergencia/35576129576347/1746
+        --> Atendimento em Coordenação de Emergência Regional (CER)  https://pref.rio/servicos/categoria/emergencia/10729741265179/1746
+        --> Informações sobre incêndio no Parque Nacional da Tijuca https://pref.rio/servicos/categoria/emergencia/10821287077275/1746
+        --> Informações sobre mensagens de alerta da Defesa Civil https://pref.rio/servicos/categoria/emergencia/10421078641307/1746
+        
+    --> Trabalho https://pref.rio/servicos/categoria/trabalho
+        --> Informação sobre trabalho ou estágio na MultiRio https://pref.rio/servicos/categoria/trabalho/75543/carioca-digital
+        --> Consulta e encaminhamento para vagas de emprego https://pref.rio/servicos/categoria/trabalho/70982/carioca-digital
+        --> Cartão Refeição Prato Feito Carioca https://pref.rio/servicos/categoria/trabalho/86866/carioca-digital
+        --> Carteira de Trabalho digital. https://pref.rio/servicos/categoria/trabalho/70730/carioca-digital
+        --> Mais de 2,5 mil vagas em cursos gratuitos de tecnologia e empreendedorismo são oferecidas pelas Naves do Conhecimento. https://pref.rio/servicos/categoria/trabalho/89966/carioca-digital
+        --> Informações para empresas que buscam qualificar, incluir e capacitar pessoas com deficiência https://pref.rio/servicos/categoria/trabalho/10837066859291/1746
+        --> Informações sobre guia de turismo https://pref.rio/servicos/categoria/trabalho/10837094833307/1746
+        --> Inscrições para Cursos de Capacitação nas Casas da Mulher Carioca https://pref.rio/servicos/categoria/trabalho/10822636753563/1746
+        --> Informações sobre trabalho ou estágio na MultiRio https://pref.rio/servicos/categoria/trabalho/10605150233883/1746
+        --> Informações sobre o Centro de Referência de Inclusão Produtiva - CRIP https://pref.rio/servicos/categoria/trabalho/32872302095899/1746
+        --> Informações sobre o projeto de empreendedorismo comunitário https://pref.rio/servicos/categoria/trabalho/10247029082523/1746
+        --> Informações sobre os Postos da Central do Trabalhador https://pref.rio/servicos/categoria/trabalho/10836279005339/1746
+        --> Informações sobre inclusão de pessoas com deficiência no mercado de trabalho https://pref.rio/servicos/categoria/trabalho/10836996886811/1746
+        --> Informações sobre o balcão de talentos https://pref.rio/servicos/categoria/trabalho/10733579762971/1746
+        --> Informações sobre estágio na Prefeitura  https://pref.rio/servicos/categoria/trabalho/10837133841435/1746
+        --> Cursos voltados para pessoas com deficiência https://pref.rio/servicos/categoria/trabalho/10836130687131/1746
+        --> Informações sobre o programa Empreenda Rio https://pref.rio/servicos/categoria/trabalho/20815379193755/1746
+        --> Informações sobre formação profissional em Informática - FORSOFT https://pref.rio/servicos/categoria/trabalho/10836181631003/1746
+        --> Informação sobre saque do PIS/PASEP https://pref.rio/servicos/categoria/trabalho/10834017208859/1746
+        --> Informações sobre cursos de qualificação social e profissional gratuitos https://pref.rio/servicos/categoria/trabalho/10836152220827/1746
+
+    --> Esportes https://pref.rio/servicos/categoria/esportes
+        --> Informações sobre atividades esportivas gratuitas https://pref.rio/servicos/categoria/esportes/10390775086363/1746
+        --> Manutenção de equipamentos das Academias da Terceira Idade (ATI) https://pref.rio/servicos/categoria/esportes/10391614994971/1746
+        --> Esportes https://pref.rio/servicos/categoria/esportes/77811/carioca-digital
+        --> Projetos esportivos - informações sobre custeio https://pref.rio/servicos/categoria/esportes/10391618294299/1746
+        --> Secretaria Municipal de Esportes https://pref.rio/servicos/categoria/esportes/72707/carioca-digital
+        --> Solicitação de instalação de Academias da Terceira Idade https://pref.rio/servicos/categoria/esportes/86836/carioca-digital
+        --> Informações sobre Projeto Vida Ativa https://pref.rio/servicos/categoria/esportes/10391568912027/1746
+        --> Informações sobre instalação de academias da terceira idade https://pref.rio/servicos/categoria/esportes/10387604705819/1746
+        --> Subsecretaria de Esportes e Lazer https://pref.rio/servicos/categoria/esportes/10412600341275/1746
+        --> Informações sobre o uso de quadras de esporte no Aterro https://pref.rio/servicos/categoria/esportes/10391459954331/1746
+        --> Informações sobre material/equipamento esportivo da SMEL https://pref.rio/servicos/categoria/esportes/10391408871195/1746
+        --> Eventos esportivos - informações sobre patrocínio https://pref.rio/servicos/categoria/esportes/10387499197211/1746
+
+    --> Segurança https://pref.rio/servicos/categoria/seguranca
+        --> Fiscalização de perturbação do sossego https://pref.rio/servicos/categoria/seguranca/10221320061979/1746
+        --> Informações sobre prática irregular de esportes em área pública https://pref.rio/servicos/categoria/seguranca/10858508655387/1746
+        --> Informações sobre imagens das câmeras de monitoramento https://pref.rio/servicos/categoria/seguranca/10872730317339/1746
+        --> Informações sobre ocorrência de delitos em cemitério https://pref.rio/servicos/categoria/seguranca/10835235716891/1746
+        --> Informações sobre procedimentos em caso de assalto a turista https://pref.rio/servicos/categoria/seguranca/10420837594139/1746
+        --> Informações sobre as unidades operacionais da Guarda Municipal https://pref.rio/servicos/categoria/seguranca/10836768212507/1746
+        --> Turista assaltado https://pref.rio/servicos/categoria/seguranca/78138/carioca-digital
+ 

@@ -1,57 +1,88 @@
-<<<<<<< HEAD
-# ProjetoSelenium
-=======
-# Selenium Project
+# Serviços Prefeitura Rio - Web Scraping
 
-This project automates the extraction of service links from the website `https://pref.rio/` using Selenium.
+Este projeto realiza a extração automatizada de links dos serviços disponíveis no portal da Prefeitura do Rio de Janeiro (https://pref.rio/). Utilizando Selenium WebDriver, o script coleta informações sobre os serviços e seus respectivos links de acesso.
 
-## Requirements
+## Funcionalidades
 
-- Python 3.x
+- Extração automatizada de links dos serviços
+- Coleta de informações por categoria de serviço
+- Exportação dos dados para arquivo Excel
+- Tratamento de erros e timeout
+- Modo headless para execução em background
+
+## Requisitos
+
+- Python 3.8+
 - Google Chrome
 - ChromeDriver
 
-## Setup
+## Instalação
 
-1. Clone the repository:
+1. Clone o repositório:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ingridasgracas/ProjetoSelenium.git
    ```
 
-2. Navigate to the project directory:
+2. Entre no diretório do projeto:
    ```bash
-   cd selenium_project
+   cd ProjetoSelenium
    ```
 
-3. Create a virtual environment:
+3. Crie um ambiente virtual:
    ```bash
    python -m venv venv
    ```
 
-4. Activate the virtual environment:
-   - On Windows:
+4. Ative o ambiente virtual:
+   - No Windows:
      ```bash
      venv\Scripts\activate
      ```
-   - On macOS/Linux:
+   - No Linux/macOS:
      ```bash
      source venv/bin/activate
      ```
 
-5. Install the required packages:
+5. Instale as dependências:
    ```bash
    pip install -r requirements.txt
    ```
 
-## Usage
+## Uso
 
-Run the script:
-```bash
-python script.py
-```
+1. Execute o script:
+   ```bash
+   python ScrapingPrefrio.py
+   ```
 
-## Notes
+2. Os resultados serão salvos na pasta `output` em um arquivo Excel chamado `servicos_pref_rio_links.xlsx`
 
-- Ensure that ChromeDriver is compatible with your installed version of Google Chrome.
-- Adjust the waiting times in the script if necessary.
->>>>>>> 803a70b (primeiro commit)
+## Estrutura dos Dados
+
+O arquivo Excel gerado contém as seguintes colunas:
+- Categoria: categoria do serviço
+- Serviço: nome do serviço
+- URL Serviço: URL da página de descrição do serviço
+- Link Final: URL do botão "Acessar serviço"
+
+## Notas
+
+- O script utiliza modo headless por padrão (execução sem interface gráfica)
+- É necessário que o ChromeDriver seja compatível com a versão do Google Chrome instalada
+- O script inclui tratamento de erros para páginas que não carregam ou não possuem o botão de acesso
+
+## Contribuindo
+
+1. Faça um Fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Push para a branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
+## Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Autora
+
+Ingrid Gracas
