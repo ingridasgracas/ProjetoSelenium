@@ -71,18 +71,4 @@ O arquivo Excel gerado contém as seguintes colunas:
 - É necessário que o ChromeDriver seja compatível com a versão do Google Chrome instalada
 - O script inclui tratamento de erros para páginas que não carregam ou não possuem o botão de acesso
 
-## Contribuindo
 
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Autora
-
-Ingrid Gracas
